@@ -297,7 +297,7 @@ export default function StockPage() {
 
                     
 
-                    <FundamentalData colorTheme="light" height={800} width="100%"></FundamentalData>
+                    <FundamentalData symbol={ticker} colorTheme="light" height={800} width="100%"></FundamentalData>
 
 
                     

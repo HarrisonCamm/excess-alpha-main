@@ -1,0 +1,51 @@
+/* html, body {
+    width: 100%;
+} */
+
+.header {
+    padding-bottom: 30px;
+    float: left;
+}
+
+/* h1, h5, p, h4, label, select, label, input, button {
+    float: left;
+    text-align: left;
+} */
+
+
+div.accordian {
+    max-width: 1200px;
+    
+}
+
+.left-text {
+    text-align: left;
+}
+
+div.wrapper {
+    display: grid;
+}
+
+.left {
+    float: left;
+    text-align: left;
+    max-width: 50%;
+}
+
+.text-box {
+    float: left;
+    text-align: left;
+    max-width: 50%;
+}
+
+
+
+
+table {
+    margin: 0 auto;
+}
+
+
+button.link { background:none; border:none; }
+
+

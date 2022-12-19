@@ -1,0 +1,45 @@
+.avatar {
+  margin: auto;
+  width: 50%;
+}
+
+.calander-sidebar {
+  border-radius: 15px;
+  padding: 20px;
+  float: right;
+}
+
+.calander {
+  border-radius: 15px;
+}
+
+.pre-post-column {
+  padding: 10px;
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-gap: 10px;
+    background-color: #ffffff;
+    padding: 10px;
+    height: fit-content;
+  }
+  .column-contents {
+      display: grid;
+      grid-template-columns: auto auto;
+      
+  }
+  
+  
+  
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 20px;
+    height:600;
+    border-radius: 15px;
+
+  }
